@@ -1,7 +1,7 @@
 DEMO_TITLE = "Team Project"
 
 def greet(name):
-    return f"Hello {name}!"
+    return f"Hi {name}!"
 
 def good_bye(name):
     return f"Goodbye {name}!"
